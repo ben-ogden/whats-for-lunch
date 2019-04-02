@@ -1,5 +1,4 @@
-# mongodb
-Various MongoDB Demos &amp; Utilities
+# Various MongoDB Demos &amp; Utilities
 
 <b>What's for Lunch?</b>
 
