@@ -1,0 +1,7 @@
+{
+    "id": "5c96e3b82dccc538768886b8",
+    "name": "enableSend",
+    "actions": [
+        "send"
+    ]
+}
