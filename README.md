@@ -1,5 +1,3 @@
-# Various MongoDB Demos &amp; Utilities
+# What's for Lunch?
 
-<b>What's for Lunch?</b>
-
-A simple MongoDB Stitch application running on MongoDB Atlas integrated with Twilio. Receives votes for the day's lunch destination via SMS. Returns a leaderboard of the top lunch votes.
+A simple <b>MongoDB</b> Stitch application running on MongoDB Atlas integrated with <b>Twilio</b>. Receives votes for the day's lunch destination via SMS. Returns a leaderboard of the top lunch votes.
